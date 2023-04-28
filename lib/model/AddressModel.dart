@@ -1,4 +1,4 @@
-import 'package:gromartstore/model/User.dart';
+import 'package:mundovirtual/model/User.dart';
 
 class AddressModel {
   String city;
