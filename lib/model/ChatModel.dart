@@ -1,4 +1,4 @@
-import 'package:gromartstore/model/MessageData.dart';
+import 'package:mundovirtual/model/MessageData.dart';
 
 import 'User.dart';
 
