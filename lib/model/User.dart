@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/foundation.dart';
-import 'package:gromartstore/constants.dart';
+import 'package:mundovirtual/constants.dart';
 
 class User with ChangeNotifier {
   String email;
