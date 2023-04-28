@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GromartStore Dashboard</string>
+    <string name="facebook_app_id">1787832751598994</string>
+    <string name="fb_login_protocol_scheme">fb1787832751598994</string>
+    <string name="facebook_client_token">9a4d4cccd95d34fa2dfec10fa031f128</string>
+</resources>
