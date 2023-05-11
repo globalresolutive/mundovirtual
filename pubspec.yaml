@@ -1,5 +1,5 @@
-name: gromartstore
-description: A new Flutter application.
+name: mundovirtual
+description: Una nueva idea, mejorada y perfeccionada de lo que se conoce hoy como un directorio.
 
 publish_to: "none" # Remove this line if you wish to publish to pub.dev
 
@@ -48,8 +48,6 @@ dependencies:
   pin_code_fields: ^7.4.0
   permission_handler: ^6.0.1+1
   progress_dialog:
-    git:
-      url: https://github.com/mostafaAbdelazim/progress_dialog.git
   random_string: ^2.3.1
   shared_preferences: ^2.0.15
   smooth_page_indicator: ^1.0.0+2
